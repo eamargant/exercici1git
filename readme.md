@@ -26,7 +26,8 @@ Igual que antes, al no tener servidor remoto no aparece nada.
 6.__Crea un repositorio remoto llamado repo01, asócialo a tu repositorio local__  
 7.__Vuelve a ejecutar el comando git remote –v nuevamente y explica el porque
 ahora si que aparece__  
-Al tenerlo enlazado, el comando que antes no funcionaba, ahora hace su función y nos muestra info del servidor remoto.
+Al tenerlo enlazado, el comando que antes no funcionaba, ahora hace su función y nos muestra info del servidor remoto.  
+
 ![Error al cargar la imagen](https://github.com/eamargant/exercici1git/blob/main/FOTOS/3.PNG?raw=true "Captura proces")    
 8.__Sube los cambios que hemos subido al snapshot local (commit) hacía al repositorio remoto__
 ![Error al cargar la imagen](https://github.com/eamargant/exercici1git/blob/main/FOTOS/4.PNG?raw=true "Captura proces")  
